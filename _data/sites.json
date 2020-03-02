@@ -593,6 +593,17 @@
             "awardwallet.com"
         ]
     },
+    
+    {
+        "name": "Ayoa",
+        "url": "https://account.ayoa.com/request-delete-account",
+        "difficulty": "easy",
+        "notes": "You must enter a confirmation code supplied by email and supply a reason for deleting your account",
+        "domains": [
+            "app.ayoa.com",
+            "account.ayoa.com"
+        ]
+    },
 
     {
         "name": "Babbel",
